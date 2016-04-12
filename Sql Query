@@ -1,0 +1,1 @@
+SELECT Parametro, Metodo, Rif1, Rif2, nomeFoglio, riferimentoAccredia, codiceFamiglia FROM parametri WHERE Matrice = 3;
