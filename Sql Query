@@ -1,1 +1,2 @@
 SELECT Parametro, Metodo, Rif1, Rif2, nomeFoglio, riferimentoAccredia, codiceFamiglia FROM parametri WHERE Matrice = 3;
+SELECT * FROM caricolavoro WHERE accettazione = '1092/16';
